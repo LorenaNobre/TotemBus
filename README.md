@@ -3,86 +3,144 @@ Projeto acadêmico desenvolvido em equipe para disponibilização de informaçõ
 
 # 🚍 TotemBus
 
+> Projeto acadêmico desenvolvido em equipe durante a graduação em Sistemas de Informação no Centro Universitário Newton Paiva.
+
 ## 📖 Sobre o projeto
 
-O TotemBus é um projeto acadêmico desenvolvido em equipe durante a graduação em Sistemas de Informação no Centro Universitário Newton Paiva.
+O **TotemBus** foi desenvolvido com o objetivo de facilitar o acesso às informações do transporte público de Belo Horizonte por meio de uma aplicação web em formato de totem de autoatendimento.
 
-O objetivo do projeto foi desenvolver uma solução digital para disponibilizar informações do transporte público de Belo Horizonte por meio de um totem de autoatendimento, permitindo que os usuários consultassem linhas, itinerários e horários de forma simples e acessível.
+A solução permite que os usuários consultem informações sobre linhas de ônibus, itinerários e horários de maneira simples, intuitiva e acessível, utilizando dados fornecidos por uma API de transporte público.
 
----
-
-## 🎯 Objetivo
-
-Desenvolver uma aplicação web integrada a uma API de transporte público para facilitar o acesso às informações de mobilidade urbana.
+Este projeto foi desenvolvido como atividade acadêmica, proporcionando a aplicação prática de conceitos de desenvolvimento web, integração de sistemas e trabalho colaborativo.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+# 🎯 Objetivo
 
+Desenvolver uma aplicação web capaz de consumir dados de uma API de transporte público e disponibilizar informações de mobilidade urbana de forma rápida, organizada e acessível aos usuários.
+
+---
+
+# 🚀 Tecnologias utilizadas
+
+### Front-end
 - ReactJS
-- Spring Boot
+- JavaScript
+- HTML5
+- CSS3
+
+### Back-end
 - Java
-- API REST
+- Spring Boot
+
+### Ferramentas
 - Git
 - GitHub
 - Vercel
 - Render
+- Figma
 
 ---
 
-## ✨ Funcionalidades
+# ✨ Funcionalidades
 
-- Consulta de linhas de ônibus
-- Consulta de itinerários
-- Consulta de horários
-- Integração com API externa
-- Interface web para consulta das informações
-
----
-
-## 👩‍💻 Minha participação
-
-Este projeto foi desenvolvido em equipe.
-
-Minha participação incluiu colaboração no desenvolvimento da aplicação, contribuindo com atividades de Front-End, Back-End, integração entre interface e API, além de testes e validação das funcionalidades desenvolvidas.
+- Consulta de linhas de ônibus.
+- Consulta de itinerários.
+- Consulta de horários.
+- Interface web para autoatendimento.
+- Integração com API de transporte público.
+- Navegação simples e intuitiva.
 
 ---
 
-## 👥 Desenvolvimento em equipe
+# 🤝 Minha contribuição
 
-O desenvolvimento foi organizado em dois repositórios:
+Este projeto foi desenvolvido em equipe durante a graduação.
 
-**Front-End**
-<LINK>
-
-**Back-End**
-<LINK>
+Minha participação envolveu colaboração no desenvolvimento da aplicação, contribuindo com atividades relacionadas ao Front-end, Back-end, integração entre interface e API, além da realização de testes e validação das funcionalidades implementadas.
 
 ---
 
-## 📚 Aprendizados
+# 👥 Equipe
 
-Durante o desenvolvimento deste projeto tive a oportunidade de aprofundar conhecimentos em desenvolvimento web, arquitetura cliente-servidor, consumo de APIs REST, integração entre sistemas, versionamento com Git e trabalho colaborativo utilizando GitHub.
+Projeto desenvolvido em equipe como parte da graduação em Sistemas de Informação no Centro Universitário Newton Paiva.
 
 ---
 
-## 📷 Imagens
+# 🏗 Arquitetura da solução
+
+O desenvolvimento foi dividido em duas aplicações:
+
+- Front-end responsável pela interface do usuário.
+- Back-end responsável pelas regras de negócio e comunicação com a API de transporte.
+
+A comunicação entre as aplicações ocorre por meio de APIs REST.
+
+---
+
+# 🔗 Código-fonte
+
+O código deste projeto encontra-se nos repositórios originais da equipe de desenvolvimento.
+
+### Front-end
+https://github.com/Gmicheletti/totem-bus
+
+### Back-end
+https://github.com/Gmicheletti/api-totem-bus
+
+---
+
+# 🔗 Referências
+
+API utilizada durante o desenvolvimento:
+
+- https://github.com/guilhermerodrigues680/onibusbh
+
+Documentação complementar:
+
+- https://gist.github.com/brunoarmanelli/71193578d84b929799653aa61cdb4ba9
+
+---
+
+# 📷 Capturas de tela
 
 *Em breve.*
 
 ---
 
-## 📄 Documentação
+# 📄 Documentação
 
-*Em breve.*
+Em breve serão disponibilizados neste repositório:
+
+- Documento do projeto
+- Apresentação
+- Diagramas
+- Capturas de tela da aplicação
 
 ---
 
-## 🤝 Créditos
+# 📚 Principais aprendizados
 
-Projeto acadêmico desenvolvido em equipe durante a graduação em Sistemas de Informação no Centro Universitário Newton Paiva.
+Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos em:
 
-Os repositórios originais do projeto pertencem à equipe de desenvolvimento e podem ser consultados abaixo:
+- Desenvolvimento de aplicações web;
+- Arquitetura cliente-servidor;
+- Consumo de APIs REST;
+- Integração entre Front-end e Back-end;
+- Versionamento de código utilizando Git e GitHub;
+- Publicação de aplicações utilizando Vercel e Render;
+- Trabalho colaborativo em equipe;
+- Planejamento e organização de projetos de software.
 
-- Front-End: https://github.com/Gmicheletti/totem-bus
-- Back-End: https://github.com/Gmicheletti/api-totem-bus
+---
+
+# 📬 Contato
+
+Caso queira conhecer mais sobre minha trajetória:
+
+- 💼 LinkedIn: www.linkedin.com/in/lorena-nobre
+- 💻 GitHub: github.com/LorenaNobre
+
+  ---
+
+Este projeto faz parte do meu portfólio acadêmico desenvolvido durante a graduação em Sistemas de Informação. O objetivo deste repositório é documentar o projeto, compartilhar os conhecimentos adquiridos e demonstrar minha evolução técnica ao longo da formação.
