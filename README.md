@@ -131,6 +131,14 @@ O desenvolvimento deste projeto proporcionou experiência prática em:
 
 ---
 
+## ⭐ Observação
+
+Este repositório tem como objetivo documentar o projeto desenvolvido durante minha graduação.
+
+O desenvolvimento foi realizado em equipe e os repositórios originais do código-fonte pertencem ao projeto desenvolvido pelos integrantes da equipe, estando referenciados neste README.
+
+---
+
 # 📬 Contato
 
 Caso queira conhecer mais sobre minha trajetória:
