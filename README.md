@@ -21,7 +21,7 @@ Desenvolver uma aplicação web capaz de consumir dados de uma API de transporte
 
 ---
 
-# 🚀 Tecnologias utilizadas
+## 🛠️ Stack utilizada
 
 ### Front-end
 - ReactJS
@@ -53,7 +53,7 @@ Desenvolver uma aplicação web capaz de consumir dados de uma API de transporte
 
 ---
 
-# 🤝 Minha contribuição
+## 🤝 Minha contribuição
 
 Este projeto foi desenvolvido em equipe durante a graduação.
 
