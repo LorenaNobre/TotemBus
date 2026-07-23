@@ -118,18 +118,16 @@ Em breve serão disponibilizados neste repositório:
 
 ---
 
-# 📚 Principais aprendizados
+## 📚 Principais aprendizados
 
-Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos em:
+O desenvolvimento deste projeto proporcionou experiência prática em:
 
-- Desenvolvimento de aplicações web;
-- Arquitetura cliente-servidor;
-- Consumo de APIs REST;
-- Integração entre Front-end e Back-end;
+- Desenvolvimento de aplicações web utilizando ReactJS e Spring Boot;
+- Integração entre Front-end e Back-end por meio de APIs REST;
 - Versionamento de código utilizando Git e GitHub;
-- Publicação de aplicações utilizando Vercel e Render;
 - Trabalho colaborativo em equipe;
-- Planejamento e organização de projetos de software.
+- Planejamento, testes e validação de funcionalidades;
+- Publicação de aplicações em serviços de hospedagem.
 
 ---
 
