@@ -44,12 +44,11 @@ Desenvolver uma aplicação web capaz de consumir dados de uma API de transporte
 
 # ✨ Funcionalidades
 
-- Consulta de linhas de ônibus.
-- Consulta de itinerários.
-- Consulta de horários.
-- Interface web para autoatendimento.
-- Integração com API de transporte público.
-- Navegação simples e intuitiva.
+- ✅ Consulta de linhas
+- ✅ Consulta de itinerários
+- ✅ Consulta de horários
+- ✅ Integração com API
+- ✅ Interface web
 
 ---
 
