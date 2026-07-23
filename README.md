@@ -75,3 +75,14 @@ Durante o desenvolvimento deste projeto tive a oportunidade de aprofundar conhec
 ## 📄 Documentação
 
 *Em breve.*
+
+---
+
+## 🤝 Créditos
+
+Projeto acadêmico desenvolvido em equipe durante a graduação em Sistemas de Informação no Centro Universitário Newton Paiva.
+
+Os repositórios originais do projeto pertencem à equipe de desenvolvimento e podem ser consultados abaixo:
+
+- Front-End: https://github.com/Gmicheletti/totem-bus
+- Back-End: https://github.com/Gmicheletti/api-totem-bus
